@@ -14,7 +14,6 @@ fifa19 게임 데이터셋을 이용한 축구선수 Wage 예측
 - Language: Python
 - IDE : Jupyter Notebook, Pycharm
 - Library: Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
-- Framework: django
 ```
 
 ----------------------------
