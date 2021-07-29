@@ -9,7 +9,7 @@ fifa19 게임 데이터셋을 이용한 축구선수 Wage 예측
 
 - 개인 프로젝트
 - 기간: 21.02.01 ~ 21.02.24
-- Stacks
+- Stack
 ```
 - Language: Python
 - IDE : Jupyter Notebook, Pycharm
